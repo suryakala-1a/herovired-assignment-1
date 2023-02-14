@@ -4,4 +4,6 @@ int main(){
 int n;
 n=20;
 cout<<n;
+int b=10;
+cout<<b;
 }
